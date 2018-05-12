@@ -1,0 +1,38 @@
+_repo: Plays-of-Old-JapanThe-No-_44092
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Sakurai, Joji
+    aliases:
+    - 桜井錠二
+    - 櫻井錠二
+    birthdate: 1858
+    deathdate: 1939
+    gutenberg_agent_id: '44866'
+    url: http://www.gutenberg.org/2009/agents/44866
+  - agent_name: Stopes, Marie Carmichael
+    alias: Stopes, Marie Charlotte Carmichael
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '42511'
+    url: http://www.gutenberg.org/2009/agents/42511
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Stopes
+covers:
+- cover_type: archival
+  image_path: 44092-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Japanese drama -- Translations into English'
+tableOfContents: '[Introduction] -- The maiden''s tomb -- Kagekiyo -- Resumé of Tamura
+  -- The Sumida river.'
+title: 'Plays of Old Japan: The ''No'''
+url: http://www.gutenberg.org/ebooks/44092
