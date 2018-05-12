@@ -21,6 +21,8 @@ covers:
 - cover_type: archival
   image_path: 44092-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44092#Plays-of-Old-JapanThe-No-
 gutenberg_issued: '2013-11-02'
 gutenberg_type: Text
 identifiers:
